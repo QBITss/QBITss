@@ -46,9 +46,13 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="47" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="59" height="47" alt="tryhackme logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/matthieu-h-a21818226/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="47" alt="linkedin logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/QBITs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="47" alt="tryhackme logo"  />
+  </a>
 </div>
 
 ###
